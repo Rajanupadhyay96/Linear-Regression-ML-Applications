@@ -6,4 +6,4 @@ This Repository is a collection of different applications of Linear Regression.
 
 ## Simple Linear Regression Definition: "A Simple linear regression is a linear regression model with a single explanatory variable".
 
-## Multiple Linear Regression Definition: "linear regression is a linear approach to modeling the relationship between a scalar response and one or more explanatory variables".
+## Multiple Linear Regression Definition: "A Multiple linear regression is a linear approach to modeling the relationship between a scalar response and one or more explanatory variables".
